@@ -8,22 +8,28 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mdhafizur&label=Profile+Views&color=brightgreen&style=flat" alt="mdhafizur" />
-  <img src="https://img.shields.io/github/followers/mdhafizur?label=Followers" alt="GitHub Badge">
+  <img src="https://img.shields.io/github/followers/mdhafizur?label=Followers&style=flat&logo=github" alt="GitHub Badge">
 </p>
-<br>
+
+
+<h2 align="center">🤝 Let's Connect</h2>
 <p align="center">
-  Hi, I'm Hafiz, a passionate Software Engineer based in Germany with a love for OS security and full-stack development.
+  <a href="https://www.linkedin.com/in/mdhafizur98/"><img src="https://img.shields.io/badge/LinkedIn-mdhafizur98-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:hafizur.upm@gmail.com"><img src="https://img.shields.io/badge/Email-hafizur.upm@gmail.com-red?style=flat&logo=gmail" /></a>
+</p>
+
+<p align="center">
+  Hi, I'm Hafiz, a passionate Software Engineer based in Germany 🇩🇪, specializing in OS security 🛡️ and full-stack development.
   <br>
+  🔭 Currently: Working at NEON, building and securing modern OS and web applications.
   <br>
-🔬 I'm currently working at NEON, building and securing modern OS and web applications.  
+  🎓 Education: Pursuing MSc in Web Engineering at TU Chemnitz 📚.
   <br>
-  🎓 Studying MSc in Web Engineering at TU Chemnitz, constantly learning and enhancing my skills.
-  <br>
-  💻 I'm a code enthusiast, keen on exploring new technologies and solving real-world problems.  
-  <br>
-  📚 Learning security vulnerabilities in operating systems and their mitigation techniques.  
-  <br>
-  📫 Reach me at: <a href="mailto:hafizur.upm@gmail.com">hafizur.upm@gmail.com</a>
+  💻 Passion: Coding, solving real-world problems, and learning new technologies.
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdhafizur&theme=radical" alt="mdhafizur's Profile Summary" />
 </p>
 
 <h2 align="center">Languages & Frameworks & Tools</h2>
@@ -84,14 +90,35 @@
   <a href="https://www.jetbrains.com/youtrack/"><code><img title="YouTrack" height="25" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg"></code></a>
 </p>
 
+
+<h2 align="center">🚀 Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/mdhafizur/bitdeposit-backend-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdhafizur&repo=bitdeposit-backend-app&theme=radical" />
+  </a>
+  <a href="https://github.com/mdhafizur/dotnet-twillio-voice-integration">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdhafizur&repo=dotnet-twillio-voice-integration&theme=radical" />
+  </a>
+  <a href="https://github.com/mdhafizur/youthconnect-frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdhafizur&repo=youthconnect-frontend&theme=radical" />
+  </a>
+  <a href="https://github.com/mdhafizur/youthconnect-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdhafizur&repo=youthconnect-backend&theme=radical" />
+  </a>
+</p>
+
+<h3 align="center">🌐 Web Projects</h3>
+<ul align="center">
+  <li><a href="https://www.propertyhunter.com.my/">PropertyHunter</a> – A real estate platform built for property hunters in Malaysia.</li>
+  <li><a href="https://akaun.com/">Akaun.com</a> – A ERP platform for businesses.</li>
+  <li><a href="http://living.my/">Living.my</a> – A comprehensive platform offering a wide array of living solutions.</li>
+</ul>
+
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdhafizur&show_icons=true&theme=radical" alt="mdhafizur's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhafizur&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdhafizur&theme=radical" alt="mdhafizur's GitHub Streak" />
 </p>
 
-<h2 align="center">🤝 Let's Connect</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/mdhafizur98/"><img src="https://img.shields.io/badge/LinkedIn-mdhafizur98-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:hafizur.upm@gmail.com"><img src="https://img.shields.io/badge/Email-hafizur.upm@gmail.com-red?style=flat&logo=gmail" /></a>
-</p>
