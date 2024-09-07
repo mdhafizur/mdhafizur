@@ -1,15 +1,18 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mdhafizur">
 
-<h1 align="center">
+<p align="center">
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Hafiz....;Nice+to+meet+you!&center=true&size=30">
   </a>
-</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdhafizur&label=Profile+Views&color=brightgreen&style=flat" alt="mdhafizur" />
-  <img src="https://img.shields.io/github/followers/mdhafizur?label=Followers&style=flat&logo=github" alt="GitHub Badge">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=mdhafizur&label=Profile+Views&color=brightgreen&style=flat" alt="mdhafizur" />
+    <img src="https://img.shields.io/github/followers/mdhafizur?label=Followers&style=flat&logo=github" alt="GitHub Badge">
+  </p>
 </p>
+
+<hr>
 
 
 <h2 align="center">🤝 Let's Connect</h2>
@@ -17,6 +20,8 @@
   <a href="https://www.linkedin.com/in/mdhafizur98/"><img src="https://img.shields.io/badge/LinkedIn-mdhafizur98-blue?style=flat&logo=linkedin" /></a>
   <a href="mailto:hafizur.upm@gmail.com"><img src="https://img.shields.io/badge/Email-hafizur.upm@gmail.com-red?style=flat&logo=gmail" /></a>
 </p>
+
+<hr>
 
 <p align="center">
   Hi, I'm Hafiz, a passionate Software Engineer based in Germany 🇩🇪, specializing in OS security 🛡️ and full-stack development.
@@ -28,9 +33,13 @@
   💻 Passion: Coding, solving real-world problems, and learning new technologies.
 </p>
 
+<hr>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdhafizur&theme=radical" alt="mdhafizur's Profile Summary" />
 </p>
+
+<hr>
 
 <h2 align="center">Languages & Frameworks & Tools</h2>
 
@@ -90,9 +99,9 @@
   <a href="https://www.jetbrains.com/youtrack/"><code><img title="YouTrack" height="25" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg"></code></a>
 </p>
 
+<hr>
 
 <h2 align="center">🚀 Projects</h2>
-
 <p align="center">
   <a href="https://github.com/mdhafizur/bitdeposit-backend-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdhafizur&repo=bitdeposit-backend-app&theme=radical" />
@@ -108,12 +117,16 @@
   </a>
 </p>
 
+<hr>
+
 <h3 align="center">🌐 Web Projects</h3>
 <ul align="center">
   <li><a href="https://www.propertyhunter.com.my/">PropertyHunter</a> – A real estate platform built for property hunters in Malaysia.</li>
   <li><a href="https://akaun.com/">Akaun.com</a> – A ERP platform for businesses.</li>
   <li><a href="http://living.my/">Living.my</a> – A comprehensive platform offering a wide array of living solutions.</li>
 </ul>
+
+<hr>
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
