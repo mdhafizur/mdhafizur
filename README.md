@@ -3,7 +3,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Hafiz....;Nice+to+meet+you!&center=true&size=30">
-
   </a>
 </h1>
 
@@ -28,62 +27,60 @@
 </p>
 
 <h2 align="center">Languages & Frameworks & Tools</h2>
+
 <p align="center">
   <strong>Languages</strong> <br>
-  <code><img title="Go" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"></code>
-  <code><img title="Java" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
-  <code><img title="Python" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
-  <code><img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-  <code><img title="TypeScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
-  <code><img title="C++" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
-  <code><img title="C#" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code>
-  <code><img title="PHP" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></code>
-  <code><img title="Dart" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"></code>
+  <a href="https://go.dev/"><code><img title="Go" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"></code></a>
+  <a href="https://www.java.com/"><code><img title="Java" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code></a>
+  <a href="https://www.python.org/"><code><img title="Python" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><code><img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code></a>
+  <a href="https://www.typescriptlang.org/"><code><img title="TypeScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code></a>
+  <a href="https://isocpp.org/"><code><img title="C++" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><code><img title="C#" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code></a>
+  <a href="https://www.php.net/"><code><img title="PHP" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></code></a>
+  <a href="https://dart.dev/"><code><img title="Dart" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"></code></a>
 </p>
 
 <p align="center">
   <strong>Frontend Frameworks</strong> <br>
-  <code><img title="React" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
-  <code><img title="Vue.js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"></code>
-  <code><img title="Angular" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></code>
-  <code><img title="Flutter" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"></code>
+  <a href="https://reactjs.org/"><code><img title="React" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code></a>
+  <a href="https://vuejs.org/"><code><img title="Vue.js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"></code></a>
+  <a href="https://angular.io/"><code><img title="Angular" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></code></a>
+  <a href="https://flutter.dev/"><code><img title="Flutter" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"></code></a>
 </p>
 
 <p align="center">
   <strong>Backend Frameworks</strong> <br>
-  <code><img title="Spring Boot" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></code>
-  <code><img title="Django" height="25" src="https://static.cdnlogo.com/logos/d/63/django.svg"></code>
-  <code><img title="Flask" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"></code>
-  <code><img title="NestJS" height="25" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"></code>
-  <code><img title="Go" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"></code>
-  <code><img title="Kotlin" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></code>
-  <code><img title="Laravel" height="25" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg"></code>
-  <code><img title=".NET Core" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"></code>
+  <a href="https://spring.io/projects/spring-boot"><code><img title="Spring Boot" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></code></a>
+  <a href="https://www.djangoproject.com/"><code><img title="Django" height="25" src="https://static.cdnlogo.com/logos/d/63/django.svg"></code></a>
+  <a href="https://flask.palletsprojects.com/"><code><img title="Flask" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"></code></a>
+  <a href="https://nestjs.com/"><code><img title="NestJS" height="25" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"></code></a>
+  <a href="https://go.dev/"><code><img title="Go" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"></code></a>
+  <a href="https://kotlinlang.org/"><code><img title="Kotlin" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></code></a>
+  <a href="https://laravel.com/"><code><img title="Laravel" height="25" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg"></code></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/core/"><code><img title=".NET Core" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"></code></a>
 </p>
 
 
 <p align="center">
   <strong>Databases</strong> <br>
-  <code><img title="PostgreSQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
-  <code><img title="MongoDB" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
-  <code><img title="MySQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
-  <code><img title="Firebase" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></code>
+  <a href="https://www.postgresql.org/"><code><img title="PostgreSQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code></a>
+  <a href="https://www.mongodb.com/"><code><img title="MongoDB" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code></a>
+  <a href="https://www.mysql.com/"><code><img title="MySQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code></a>
+  <a href="https://firebase.google.com/"><code><img title="Firebase" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></code></a>
 </p>
 
 <p align="center">
-  <code><img title="Docker" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
-  <code><img title="Terraform" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"></code>
-  <code><img title="AWS" height="25" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
-  <code><img title="GCP" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"></code>
-  <code><img title="Azure" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"></code>
-  <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-  <code><img title="GitLab" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"></code>
-  <code><img title="Jira" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"></code>
-  <code><img title="Slack" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"></code>
+  <a href="https://www.docker.com/"><code><img title="Docker" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code></a>
+  <a href="https://www.terraform.io/"><code><img title="Terraform" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"></code></a>
+  <a href="https://aws.amazon.com/"><code><img title="AWS" height="25" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code></a>
+  <a href="https://cloud.google.com/"><code><img title="GCP" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"></code></a>
+  <a href="https://azure.microsoft.com/"><code><img title="Azure" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"></code></a>
+  <a href="https://git-scm.com/"><code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code></a>
+  <a href="https://about.gitlab.com/"><code><img title="GitLab" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"></code></a>
+  <a href="https://www.atlassian.com/software/jira"><code><img title="Jira" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"></code></a>
+  <a href="https://slack.com/"><code><img title="Slack" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"></code></a>
 </p>
-
-
-
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
