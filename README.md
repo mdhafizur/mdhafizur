@@ -71,8 +71,9 @@
 </p>
 
 <p align="center">
+  <strong>Tools</strong> <br>
   <a href="https://www.docker.com/"><code><img title="Docker" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code></a>
-  <a href="https://www.terraform.io/"><code><img title="Terraform" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"></code></a>
+   <a href="https://www.elastic.co/"><code><img title="Elastic" height="25" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"></code></a>
   <a href="https://aws.amazon.com/"><code><img title="AWS" height="25" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code></a>
   <a href="https://cloud.google.com/"><code><img title="GCP" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"></code></a>
   <a href="https://azure.microsoft.com/"><code><img title="Azure" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"></code></a>
@@ -80,6 +81,7 @@
   <a href="https://about.gitlab.com/"><code><img title="GitLab" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"></code></a>
   <a href="https://www.atlassian.com/software/jira"><code><img title="Jira" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"></code></a>
   <a href="https://slack.com/"><code><img title="Slack" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"></code></a>
+  <a href="https://www.jetbrains.com/youtrack/"><code><img title="YouTrack" height="25" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg"></code></a>
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
