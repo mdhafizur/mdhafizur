@@ -24,7 +24,7 @@
 <hr>
 
 <p align="center">
-  Hi, I'm Hafiz, a passionate Software Engineer based in Germany 🇩🇪, specializing in OS security 🛡️ and full-stack development.
+  Hi, I'm Hafiz, a Software Engineer based in Germany 🇩🇪, specializing in OS security 🛡️ and full-stack development.
   <br>
   🔭 Currently: Working at NEON, building and securing modern OS and web applications.
   <br>
